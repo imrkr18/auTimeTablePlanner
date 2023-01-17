@@ -27,7 +27,7 @@ const DashBoard = () => {
     "Thursday": 4,
     "Friday": 5,
     "Saturday": 6,
-    "Sunday": 0,
+    "Sunday": 0
   }
 
   // To get user courses data
